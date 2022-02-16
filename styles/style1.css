@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(255, 72, 0, 0.432);
+    color: blue;
+}
+h1.title{
+    color: blue;
+    text-align: center;
+}
+div.etherum{
+    background-color: white;
+}
+p.bitcoin{
+    margin-left: 80%;
+  }
+span.etherum{
+    margin-left:60%;
+}
+span.litecoin{
+    margin-left:15%;
+}
+
+div.footer{
+    text-align: center;
+    background-color: yellow;
+}
+span.footer{
+   color: red;
+}
